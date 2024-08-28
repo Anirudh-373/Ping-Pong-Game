@@ -1,4 +1,5 @@
-Ping Pong Game in Python
+**Ping Pong Game in Python**
+
 This project is a simple implementation of the classic Ping Pong game using Python and the Pygame library. The game involves two paddles and a ball, where players compete to score points by hitting the ball past their opponent's paddle.
 
 Features:
